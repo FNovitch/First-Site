@@ -59,7 +59,7 @@ nav a:hover {
 }
 
 .banner {
-    background-image: url(../PROJETOS/IMAGEM\ PROJETO/img1.jpg); 
+    background-image: url(IMAGEM\ PROJETO/img1.jpg);
     background-position: center;
     background-size: cover;
     height: 670px;
